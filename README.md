@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arthurrezendearaujo
+- 👀 I’m interested in entering a career in cybersecurity, I am looking for my first job in the area.
+- 🌱 I'm currently learning pentest techniques, programming languages ​​such as Py, C, Js and web development with HTML and CSS
+- 📫 How to reach me: contatoarthurrezende@icloud.com or +55 11 99360-2390
